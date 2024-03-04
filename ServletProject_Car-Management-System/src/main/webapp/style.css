@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1{
+	color: red;
+}
+.body{
+	background-color: yellow;
+	background-image: url("");
+	
+}
+h2 a{
+	text-decoration: none;
+	color: purple;
+}
