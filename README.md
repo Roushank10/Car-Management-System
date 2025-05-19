@@ -1,22 +1,61 @@
-# Car-Management-System
-Project Title: Car Management System with CRUD Operations
+# 🚗 Car Management System with CRUD Operations
 
-Description:
-Developed a web-based Car Management System utilizing HTML5, CSS3 for frontend design, Java Servlet for backend processing, JDBC for database connectivity, and MySQL for data storage. Implemented CRUD operations to enable users to Create, Read, Update, and Delete vehicle records. Features include adding new vehicles, updating vehicle information, viewing vehicle details, and removing vehicles when necessary. This project demonstrates proficiency in full-stack web development, database management, and CRUD operation implementation using Java technologies.
+A web-based **Car Management System** developed using Java technologies that allows users to manage vehicle records through **Create, Read, Update, and Delete (CRUD)** operations. The project features a user-friendly interface and a robust backend for seamless vehicle data management.
 
-Key Technologies:
+---
 
-Frontend: HTML5, CSS3
-Backend: Java Servlet
-Database: MySQL
-Data Access: JDBC
-Key Features:
+## 📌 Project Title
 
-Create, Read, Update, Delete (CRUD) operations for managing vehicle records.
-Intuitive user interface for seamless interaction with the system.
-Ensured data integrity and reliability through controlled CRUD operations.
-Achievements:
+**Car Management System with CRUD Operations**
 
-Successfully implemented a robust Car Management System with CRUD operations, enhancing efficiency in vehicle management processes.
-Demonstrated proficiency in web development, database management, and Java technologies.
-Contributed to streamlined operations and improved decision-making within the car rental or fleet management company.
+---
+
+## 📄 Description
+
+This project is a full-stack web application designed to manage vehicle records for a car rental or fleet management system. It was built using **HTML5** and **CSS3** for the frontend, **Java Servlet** for backend logic, **JDBC** for database connectivity, and **MySQL** for data storage.
+
+Key features include:
+
+- Adding new vehicles
+- Viewing vehicle records
+- Updating vehicle information
+- Deleting vehicles from the database
+
+This project showcases my proficiency in full-stack Java web development and effective use of CRUD operations for real-world applications.
+
+---
+
+## 🛠️ Key Technologies
+
+- **Frontend:** HTML5, CSS3  
+- **Backend:** Java Servlet  
+- **Database:** MySQL  
+- **Data Access:** JDBC  
+
+---
+
+## ✨ Key Features
+
+- ✅ Create, Read, Update, and Delete operations for vehicle records  
+- 🎯 Intuitive and responsive user interface  
+- 🔐 Ensured data integrity and consistency through secure operations  
+- 📊 Clean and structured data management for vehicles
+
+---
+
+## 🏆 Achievements
+
+- Successfully developed a robust and reliable car management system.
+- Demonstrated strong skills in:
+  - Java web development (Servlets, JDBC)
+  - Database design and management (MySQL)
+  - Frontend development (HTML5, CSS3)
+- Contributed to streamlined vehicle management processes suitable for rental or fleet-based organizations.
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/Car-Management-System.git
